@@ -42,6 +42,6 @@ I like the process of sharing opinions about development.
 
 ### 📘 TechBlog
 
-![techblog](https://img.shields.io/badge/github-4479A1.svg?&style=for-the-badge&logo=github&logoColor=white)
+[![techblog](https://img.shields.io/badge/github-4479A1.svg?&style=for-the-badge&logo=github&logoColor=white)](http://erurang.github.io)
 
 <!-- </div> -->
