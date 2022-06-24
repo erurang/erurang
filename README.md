@@ -28,7 +28,6 @@ I like the process of sharing opinions about development.
 ![redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-61DAFB.svg?&style=for-the-badge&logo=REACT&logoColor=black)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-![prisma](https://img.shields.io/badge/prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
 
 ### ✏️ Studying
 
@@ -37,6 +36,7 @@ I like the process of sharing opinions about development.
 ![graphql](https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![prisma](https://img.shields.io/badge/prisma-2D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
 
 <!-- ![redux](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=white) -->
 
