@@ -1,16 +1,11 @@
 ## ⭐️ Introduce
 
-🤞 Nice way to meet me.
+🤞contact me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%EC%A4%80%EC%84%B1-%EC%9C%A4-8112191ab/)
 [![naver Badge](https://img.shields.io/badge/-naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:erurang@naver.com)](mailto:erurang@naver.com)
 
 I'm a front-end developer.
-
-I like to study new skills and I like to study why they were made.
-
-I like the process of sharing opinions about development.
-
 <!-- ##
 
 - **2021/09 ~ 2022/03** EmBlock Frontend Dev
