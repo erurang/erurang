@@ -6,6 +6,17 @@
 [![naver Badge](https://img.shields.io/badge/-naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:erurang@naver.com)](mailto:erurang@naver.com)
 
 I'm a front-end developer.
+
+## Work Experience
+
+### BsquareLab (2022/06 ~)
+
+- Frontend Developer - Frontend developing of ABC Wallet (Ahnlab blockchain company) Project
+
+### Emblock (2021)
+
+- Frontend Developer - Frontend developing of Abocado , NFTMaru Projects
+
 <!-- ##
 
 - **2021/09 ~ 2022/03** EmBlock Frontend Dev
@@ -40,3 +51,4 @@ I'm a front-end developer.
 [![techblog](https://img.shields.io/badge/github-4479A1.svg?&style=for-the-badge&logo=github&logoColor=white)](http://erurang.github.io)
 
 <!-- </div> -->
+
