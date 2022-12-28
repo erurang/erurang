@@ -12,6 +12,7 @@ I'm a front-end developer.
 ### BsquareLab (2022/06 ~)
 
 - Frontend Developer - Frontend developing of ABC Wallet (Ahnlab blockchain company) Project
+  - Applicaiton Webview using React / Typescript
 
 ### Emblock (2021)
 
