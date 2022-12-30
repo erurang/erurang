@@ -7,22 +7,17 @@
 
 I'm a front-end developer.
 
-## Work Experience
+## Work Experience & Project
 
 ### BsquareLab (2022/06 ~)
 
 - Frontend Developer - Frontend developing of ABC Wallet (Ahnlab blockchain company) Project
   - Applicaiton Webview using React / Typescript
 
-### Emblock (2021)
+### Emblock (2021/09 ~ 12)
 
 - Frontend Developer - Frontend developing of Abocado , NFTMaru Projects
-
-<!-- ##
-
-- **2021/09 ~ 2022/03** EmBlock Frontend Dev
-
-- **2022/06 ~ Now** Bsquarelab Frontend Dev -->
+  - Using React
 
 ## 💪 Skills
 
