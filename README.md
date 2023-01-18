@@ -14,7 +14,7 @@ I'm a front-end developer.
 - Frontend Developer - Frontend developing of ABC Wallet (Ahnlab blockchain company) Project
   - Applicaiton Webview using React / Typescript
 
-### Emblock (2021/09 ~ 12)
+### Emblock (2021/10 ~ 2)
 
 - Frontend Developer - Frontend developing of Abocado , NFTMaru Projects
   - Using React
