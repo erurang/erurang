@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/%EC%A4%80%EC%84%B1-%EC%9C%A4-8112191ab/)
 [![naver Badge](https://img.shields.io/badge/-naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=mailto:erurang@naver.com)](mailto:erurang@naver.com)
 
-I'm a front-end developer.
+I'm a front-end developer. my [CV](https://drive.google.com/file/d/1rfqX3WF5ouXOc3Ffd2xAzV2aKQd_Ux7u/view?usp=share_link)
 
 ## Work Experience & Project
 
