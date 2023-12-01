@@ -9,7 +9,13 @@ I'm a front-end developer. my [CV](https://drive.google.com/file/d/1rfqX3WF5ouXO
 
 ## Work Experience & Project
 
-### BsquareLab (2022/06 ~)
+### Wooyang
+
+- build erp system
+- build admin website for management
+- Next.js Prisma(mysql)
+
+### BsquareLab (2022/06 ~ 2023/07)
 
 - Frontend Developer - Frontend developing of ABC Wallet (Ahnlab blockchain company) Project
   - Applicaiton Webview using React / Typescript
