@@ -20,10 +20,16 @@ I'm a front-end developer. my [CV](https://drive.google.com/file/d/1rfqX3WF5ouXO
 - Frontend Developer - Frontend developing of ABC Wallet (Ahnlab blockchain company) Project
   - Applicaiton Webview using React / Typescript
 
-### Emblock (2021/10 ~ 2)
+### Emblock (2021/10 ~ 2022/03)
 
-- Frontend Developer - Frontend developing of Abocado , NFTMaru Projects
+- Frontend Developer - Frontend developing of Abocado , NFTMaru Project
   - Using React
+
+### Project
+
+- 실제 Upbit 거래데이터를 사용한 실시간 차트복기 웹
+- 백그라운드 자동백업 프로그램
+- 위치기반 실시간 메신저
 
 ## 💪 Skills
 
